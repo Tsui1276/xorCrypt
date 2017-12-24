@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include "functions.h"
 
-char* signature = "\xDE\xAD\xBE\xEF";
+char* signature = "\xDE\xAD\xBE\xEF"; //The signature
 
 int main(int argc, char **argv)
 {
